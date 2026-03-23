@@ -25,15 +25,12 @@ matrix printer printouts. It supports the following characters set:
 * Cyrillic Plus
 
 This font is perfect for evoking a retro or nostalgic feel, conveying the idea
-of minimalism, or efficiently presenting information on small displays. There
-are 2 types of designs:
+of minimalism, or efficiently presenting information on small displays.
 
-* **Formed LED (bar type)** - under `Tiny5` name.
-* **Dot Matrix LED (matrix type)** - under `Tiny 5x3` name.
-
-For Dot Matrix LED type, `weight=250` weight is recommended to avoid the dot
-matrix overlapping with one another. Adjust it accordingly depending on
-the over presentation layout.
+This font provisions the structured/formed LED design (bar type) under `Tiny5`
+name. There is another independently supported font called `Tiny` under
+`Tiny 5x3` name that provide the dot matrix LED design variant. Please
+**DO NOT** confuse with this font.
 
 
 
